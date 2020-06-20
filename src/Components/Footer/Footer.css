@@ -1,0 +1,19 @@
+.footerContainer{
+    background-color: rgb(75, 0, 125);
+    height: 100px;
+}
+
+.textColor{
+    color:yellow;
+    margin-top: 30px;
+    font-size: 20px;
+}
+
+.iconColor{
+    color: yellow;
+    margin-top: 30px;
+}
+
+.iconColor > i {
+    margin-left: 20px;
+}

@@ -1,0 +1,22 @@
+.navbarContainer{
+    background-color: transparent;
+}
+
+.img{
+    height: 50px;
+    width: 50px;
+}
+
+.contents{
+    margin-left: auto !important;
+}
+
+.navItems{
+    margin-right: 30px;
+}
+
+.navLinkItems{
+    font-size: 20px;
+    color: rgb(75, 0, 125) !important;
+    font-family: Arial, Helvetica, sans-serif;
+}
